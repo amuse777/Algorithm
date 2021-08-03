@@ -1,4 +1,5 @@
-# 소수찾기 (정답률 48%)
+# https://www.acmicpc.net/problem/1978
+# 소수찾기, Silver4 (정답 비율 : 48%)
 
 num = int(input())
 num_list = list(map(int, input().split()))
