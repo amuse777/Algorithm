@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/21313
-# 문어, Bronze2 (정답 비율 : 75%)\
+# 문어, Bronze2 (정답 비율 : 75%)
 
 
 N = int(input())
